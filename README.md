@@ -10,7 +10,7 @@ seeking solutions to address this issue. In order to tackle this challenge, the 
 analyze their database and identify opportunities to increase the occupancy rate, thereby boosting the 
 average profit earned per seat.
 Click <a href= "https://github.com/dagarmohit272/Airlines-Performance/blob/main/travel_sqlite_Airline_data_by_Mohit.ipynb">here</a> to check the project.
-Click <a href= "https://github.com/dagarmohit272/Airlines-Performance/blob/main/travel_sqlite_Airlines%20report.pdf">here</a> to check project report.
+and Click <a href= "https://github.com/dagarmohit272/Airlines-Performance/blob/main/travel_sqlite_Airlines%20report.pdf">here</a> to check project report.
 ### Main Challenges:
 1. Stricter environmental regulations: The airlines industry is facing increasing pressure to 
 reduce its carbon footprint, leading to the implementation of more stringent 
