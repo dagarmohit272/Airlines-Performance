@@ -9,7 +9,7 @@ labor costs. These challenges are putting pressure on the company's profitabilit
 seeking solutions to address this issue. In order to tackle this challenge, the company is planning to 
 analyze their database and identify opportunities to increase the occupancy rate, thereby boosting the 
 average profit earned per seat.
-Click <a href= "https://github.com/dagarmohit272/Airlines-Performance/blob/main/travel_sqlite_Airline_data_by_Mohit.ipynb">here</a> to check the project in which we have used sqlite along with python in Jupyter notebook
+Click <a href= "https://github.com/dagarmohit272/Airlines-Performance/blob/main/travel_sqlite_Airline_data_by_Mohit.ipynb">here</a> to check the project.
 ### Main Challenges:
 1. Stricter environmental regulations: The airlines industry is facing increasing pressure to 
 reduce its carbon footprint, leading to the implementation of more stringent 
